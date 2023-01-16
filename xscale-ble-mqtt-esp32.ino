@@ -5,8 +5,8 @@
 #include <WiFiUdp.h>
 #include <ArduinoOTA.h>
 
-  char* ssid = "****";
-  char* password = "****";
+  char* ssid = "***";
+  char* password = "***";
 
   int sex=1; // male = 1; female = 0
   float height=183;
